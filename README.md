@@ -1,2 +1,2 @@
 # java-practice
-# java-practice2
+This repository for java practice
