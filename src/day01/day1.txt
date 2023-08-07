@@ -1,0 +1,16 @@
+What is Java?
+Java is a programming language and computing platform first released by Sun Microsystems in 1995.
+Java is an object oriented programming and it also supports functional programing.
+
+Class:
+    1. Its is the blueprint that defines an object
+    2. defines the attributes  and behaviours of the objects
+
+Object: single instance of a class and it retains the structure and behaviour of the class
+
+Rules to Create a class:
+    1. should start with uppercase
+    2. should not start with number
+    3. should contain upper, lower or number
+    4. only "_" underscore is allowed
+

@@ -1,0 +1,27 @@
+What is a variable?
+This is the containers for storing data values.
+
+Declaring variables:
+We can declare variables anywhere in a class block and outside my method
+We must declare variables before they are used inside a method
+Could start with letter, _ (underscore), $ symbol
+Should not start with number but includes numbers
+
+Data Types:
+1. Primitive Data Type
+    Numbers:
+        byte - 8bit
+        short - 16bit
+        int - 32bit
+        float - 32bit
+        long - 64bit
+        double - 64bit
+    Characters:
+        char - 16bit
+    Boolean:
+        boolean - true/false
+2. Non-Primitive Data Type
+    String - 32bit
+    Array
+    enum
+    union

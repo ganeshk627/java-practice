@@ -1,5 +1,3 @@
-package day01;
-
 // Class name should be same as Class File name
 public class Main {
 
