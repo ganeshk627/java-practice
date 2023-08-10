@@ -19,6 +19,10 @@ public class Methods {
         return a+b;
     }
 
+    public static void ganesh() {
+        System.out.println("Ganesh");
+    }
+
 
 
     public static void main(String[] args) {
@@ -41,6 +45,8 @@ public class Methods {
         System.out.println(m.add(6, 4));
         int added = m.add(11, 22);
         System.out.println(added);
+
+        Methods.ganesh();  //ClassName.attibute/method()
 
     }
 }

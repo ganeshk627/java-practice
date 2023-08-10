@@ -1,0 +1,4 @@
+type of access modifiers
+1. public - anywhere
+2. private - within the class
+3. protected - within the package
