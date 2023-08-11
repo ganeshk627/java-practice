@@ -1,0 +1,9 @@
+type of access modifiers
+1. public - anywhere
+2. private - within the class
+3. protected - within the package
+
+
+static vs final
+static - only one instance for a class - name - Ganesh
+final - value cannot be changed - dob -
