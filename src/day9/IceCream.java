@@ -6,7 +6,12 @@ import day9.toppings.NutsFilled;
 
 public class IceCream {
 
+    private String companyName = "Arun Ice Cream";
+
     public static void main(String[] args) {
+
+        IceCream iceCream = new IceCream();
+        System.out.println(iceCream.companyName);
         Servings servings = new Servings(); // same package
         servings.cup();
         servings.stick();

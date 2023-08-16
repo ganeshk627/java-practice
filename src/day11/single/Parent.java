@@ -1,7 +1,7 @@
 package day11.single;
 
 public class Parent {
-    public String HOUSE = "Beach Bungalow";
+    private String HOUSE = "Beach Bungalow";
 
     public void getHouse() {
         System.out.println(HOUSE);
