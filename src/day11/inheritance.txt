@@ -1,0 +1,15 @@
+1. Single - one parent having only one child
+2. Multilevel/heirarchy - a -> b-> c
+3. hybrid - single+multilevel
+4. multiple - java doesnt support (class)
+
+
+1. extends keyword
+2. class can extend only one class
+3. protected keyword
+
+
+
+
+interface - to achieve multiple inheritance
+class can implement one/multiple interfaces
