@@ -1,7 +1,7 @@
-package day8;
+package day08;
 
 import day04.SimpleGit;
-import day3.ConditionalClass;
+import day03.ConditionalClass;
 
 public class Car {
 

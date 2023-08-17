@@ -1,8 +1,8 @@
-package day9;
+package day09;
 
-import day3.ConditionalClass;
-import day9.toppings.Chocolated;
-import day9.toppings.NutsFilled;
+import day03.ConditionalClass;
+import day09.toppings.Chocolated;
+import day09.toppings.NutsFilled;
 
 public class IceCream {
 
