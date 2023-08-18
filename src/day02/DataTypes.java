@@ -40,6 +40,8 @@ public class DataTypes {
         System.out.println(splitted_byo_quote[2]);
         System.out.println(splitted_byo_quote[3]);
         System.out.println(splitted_byo_quote[4]);
+        System.out.println(splitted_byo_quote[5]);
+        System.out.println(splitted_byo_quote[6]);
 
 
 
@@ -56,7 +58,7 @@ public class DataTypes {
         System.out.println(subjects[0]); // [index]
         System.out.println(subjects[1]); // [index]
         System.out.println(subjects[2]); // [index]
-        System.out.println(subjects[3]);
+//        System.out.println(subjects[3]);
 
 
 
